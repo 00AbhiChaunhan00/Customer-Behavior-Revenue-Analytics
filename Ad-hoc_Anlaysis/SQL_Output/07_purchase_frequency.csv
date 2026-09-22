@@ -1,0 +1,5 @@
+customer_type,customers,total_orders,revenue,avg_order_value
+High-Frequency,775,5672,401214909.55,70736.06
+Loyal,664,2988,205023070.65,68615.49
+Repeat,475,1261,92145216.05,73073.13
+One-Time,79,79,5681017.95,71911.62

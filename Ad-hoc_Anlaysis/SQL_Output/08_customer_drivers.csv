@@ -1,0 +1,65 @@
+region,category_name,customers,orders,revenue
+South,Laptops,476,802,121157582.30
+West,Laptops,408,673,99183710.60
+North,Laptops,326,519,80861612.80
+South,Smartphones,512,987,73122684.75
+West,Smartphones,455,816,58873259.30
+North,Smartphones,383,700,51798386.05
+South,Electronics,588,1348,44791872.90
+West,Electronics,529,1153,44098260.45
+North,Electronics,443,992,35180099.00
+South,Furniture,341,495,12090150.70
+West,Furniture,293,398,9945059.45
+North,Furniture,229,308,8003804.95
+South,"Kitchen Appliances",332,466,6756848.30
+Central,Laptops,26,42,6714043.40
+West,"Kitchen Appliances",296,423,6389303.75
+North,"Kitchen Appliances",247,347,4870756.00
+Central,Smartphones,30,47,4402080.85
+Central,Electronics,34,71,4020679.90
+South,"Gym Equipment",333,470,2706053.60
+West,"Gym Equipment",286,390,2428987.00
+South,"Women's Clothing",319,449,2199032.75
+South,"Men's Clothing",322,462,2149583.20
+West,"Women's Clothing",304,421,2138938.75
+West,"Men's Clothing",286,397,2056888.15
+North,"Gym Equipment",237,324,2003921.95
+North,"Men's Clothing",265,373,1877162.65
+North,"Women's Clothing",257,375,1817176.10
+South,"Car Accessories",329,485,1133706.65
+West,"Car Accessories",281,382,882167.95
+North,"Car Accessories",244,343,827037.35
+South,"Baby Care",330,441,800042.75
+West,"Baby Care",277,372,796788.35
+North,"Baby Care",268,387,744007.10
+Central,Furniture,20,23,608819.55
+South,Skincare,458,774,570313.45
+South,Stationery,321,449,492486.30
+West,Skincare,405,643,483679.45
+Central,"Kitchen Appliances",16,22,477096.35
+South,"Fiction Books",338,468,472198.50
+North,Skincare,341,550,405031.55
+West,"Fiction Books",289,405,395265.45
+West,Stationery,295,396,386981.85
+South,Makeup,294,403,375178.55
+North,Stationery,248,358,336560.30
+North,Makeup,241,351,322145.05
+West,Makeup,258,360,317560.80
+Central,"Gym Equipment",28,35,294670.90
+North,"Fiction Books",230,322,286193.35
+Central,"Men's Clothing",17,25,149858.20
+South,Snacks,338,482,124964.50
+Central,"Women's Clothing",17,26,103058.60
+West,Snacks,308,460,102834.30
+South,Beverages,322,446,85206.30
+North,Snacks,252,336,82594.25
+West,Beverages,314,418,79619.40
+Central,"Car Accessories",19,28,72721.15
+North,Beverages,271,378,72651.35
+Central,"Baby Care",15,20,51805.05
+Central,Skincare,26,43,32903.70
+Central,"Fiction Books",27,34,26319.95
+Central,Stationery,16,21,13112.85
+Central,Makeup,12,12,9559.25
+Central,Snacks,21,28,6333.60
+Central,Beverages,22,25,4800.60
